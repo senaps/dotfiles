@@ -1,0 +1,109 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/senaps/" . ".emacs.d/")
+ ("/home/senaps/Projects/python/chosnale/code/Chosnale/apps/" . "chosnale/")
+ ("/home/senaps/Projects/python/chosnale/code/Chosnale/" . "apps/")
+ ("/home/senaps/Projects/python/chosnale/code/" . "Chosnale/")
+ ("/home/senaps/Projects/python/chosnale/" . "code/")
+ ("/home/senaps/Projects/python/" . "chosnale/")
+ ("/home/senaps/Projects/" . "python/")
+ ("/home/senaps/Projects/python/overflow/code/overflowdata/" . "dash/")
+ ("/home/senaps/Projects/overflow-test/code/overflowdata/" . "dash/")
+ ("/home/senaps/Projects/overflow-test/code/" . "overflowdata/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/senaps/"
+ "/home/senaps/.emacs.d/"
+ "/home/senaps/Projects/python/urlshortner/code/"
+ "/home/senaps/Projects/python/sfgen/code/sfgen/"
+ "/home/senaps/Projects/python/sfgen/code/sfgen/templates/simple_app/"
+ "/home/senaps/Projects/python/flasgger_test/"
+ "/home/senaps/Projects/python/chosnale/code/Chosnale/"
+ "/home/senaps/Projects/python/chosnale/code/Chosnale/apps/chosnale/"
+ "/home/senaps/Projects/python/chosnale/code/"
+ "/home/senaps/Projects/C/stagit/"
+ "/home/senaps/Projects/python/shp/code/"
+ "/home/senaps/Projects/ansible/local_test/"
+ "/home/senaps/Projects/python/overflow/code/overflowdata/dash/"
+ "/home/senaps/Projects/python/overflow/code/overflowdata/overflowdata/"
+ "/home/senaps/Projects/overflow-test/code/overflowdata/dash/"
+ "/home/senaps/Projects/overflow-test/code/overflowdata/overflowdata/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "index.html"
+ "init.el"
+ ".emacs"
+ "test_stiny.py"
+ "test_app.py"
+ "consts.py"
+ "app-tmp.service"
+ "requirements.txt"
+ "run.sh"
+ "api.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/senaps/" (24256 19766 147021 203000) ".zshrc" "Templates/" ".cache/" ".pythonhist" "index.html" ".vnc/" ".bash_logout" ".tmux.conf" ".gnupg/" "Documents/" ".apport-ignore.xml" ".audacity-data/" ".lesshst" ".WebStorm2018.2/" ".emacs.d/" ".python_history" "Hansel & Gretel Witch Hunters 2013 Extended BluRay 1080p_Eng.srt" "The.Witcher.S01_WorldSubtitle/" ".anydesk/" "Desktop/" ".vim/" ".jupyter/" "Downloads/" ".thumbnails/" "VirtualBox VMs/" "Oceans.Eight.2018.1080p.720p.BluRay.Fa[ANSI]srt.srt" ".zcompdump-senaps-5.4.2" ".selected_editor" ".xinputrc" "Pictures/" ".wget-hsts" "Kingsman.The.Golden.Circle.2017.720p.1080p.Bluray.Fa[UTF-8].srt" ".PyCharmCE2019.1/" "Street Fighter.1994.720p.BluRay.iranfilm-zxhm.srt" ".gimp-2.8/" ".steam/" "jjj/" "Oceans.Eight.2018.1080p.720p.BluRay.Fa[UTF-8]srt.srt" ".xchat2/" ".vscode/" ".atom/" "Wonder.Woman.2017.720p.BluRay.x264-SPARKS.Fa[ANSI].srt" "arash.ovpn~" ".pgadmin/" ".zcompdump-senaps-5.5.1" "Music/" ".bash_history" ".zcompdump-senaps-5.2" "The.Rhythm.Section.2020.BluRay.srt" ".pam_environment" ".yarnrc" "The.Mummy.2017.Blu-Ray.1080p.720p.srt" ".netrc" ".python_history-12695.tmp" "Hanna.2011.1080p.BluRay.X264-AMIABLE-Frasi.srt" ".pylint.d/" "Hanna.2011.720p.BluRay.nHD.x264-NhaNc3.srt" "./" "The Pacifier_farsi.srt" ".vscode-cpptools/" "m-2012  2009 -720p.srt" ".vimrc" "Projects/" "Bad.Boys.For.Life.2020.HDRip.XviD.AC3-EVO.[iMovie.DL].srt" ".mysql_history" ".npm/" ".owasp-nettacker/" ".mozilla/" ".pki/" ".oh-my-zsh/" ".vagrant.d/" "Wonder.Woman.2017.720p.BluRay.x264-SPARKS.Fa[UTF-8].srt" "X-Men.Apocalypse.2016.720p.1080p.BluRay.Fa.srt" "asn/" ".yarn/" ".nano/" ".PyCharmCE2018.3/" ".zshrc~" ".sudo_as_admin_successful" ".hugin" ".pgAdmin4.startup.log" "Bloodshot.2020.HDRip.Xvid.AC3-EVO.srt" ".steampid" ".config/" ".ansible/" "The.Rhythm.Section.2020.HDRip.XviD.AC3-EVO.srt" ".local/" ".zsh_history" ".ICEauthority" ".gphoto/" ".histfile" ".ptbt0" "Public/" ".hugindata/" "Get.Smart.2008.720p.BRrip.x264.YIFY.srt" "Extraction.2020.720p.1080p.WEB-DL.srt" ".zshrc.pre-oh-my-zsh" ".bashrc" "Underwater.2020.BluRay.srt" "Spectre.2015.720p.1080p.BluRay.srt" ".steampath" ".dbus/" ".themes/" ".thunderbird/" ".fandogh/" ".ssh/" "Kingsman.The.Golden.Circle.2017.720p.1080p.Bluray.Fa[ANSI].srt" ".zsnes/" ".gitconfig" ".android/" ".ipython/" "Steam/" "../" ".profile" ".go/" ".ansible_galaxy" ".emacs~" ".zcompdump" ".cert/" "The.Equalizer.2014.720p.BluRay.Nightmovie.srt" ".gconf/" "Hansel & Gretel Witch Hunters 2013 Extended BluRay 1080p.srt" ".compiz/" ".java/" "A.Quiet.Place.2018_WorldSubtitle/" "Videos/" ".viminfo" "Birds.of.Prey.2020.WebDL @DC_United.srt" "Vivarium.2020.HDRip.XviD.AC3-EVO.srt" "Programs/" "Skyfall (2012) BluRay Bdrip Brrip x264 1080p 720p 480p.Fa.srt" "Hanna.2011.1080p.BluRay.X264-AMIABLE.srt" ".PyCharmCE2018.1/" ".sqlite_history" ".PyCharmCE2018.2/")
+
+ ("/home/senaps/.emacs.d/" (24256 20585 715489 69000) "elpa/" "session.10dbb382b46e4adfb7155985080993100600000034810094" "ido.last" "init.el" "./" "snippets/" "auto-save-list/" "ido.last~" ".mc-lists.el" "../" "#ido.last#" "init.el~" "session.10f7d6e83819c01a49156406268774653700000015550085")
+
+ ("/home/senaps/Projects/python/chosnale/code/" (24032 55029 6045 560000) "develop.py" "README.md" "requirements.txt" "Procfile" ".pytest_cache/" "./" "__pycache__/" ".idea/" "Chosnale/" "tests/" ".gitignore" "production.py" "../" ".git/" "LICENSE")
+
+ ("/home/senaps/Projects/python/chosnale/code/Chosnale/apps/chosnale/" (24032 54924 525163 893000) "__init__.py" "./" "__pycache__/" "models.py" "views.py" "../" "utils.py")
+
+ ("/home/senaps/Projects/python/chosnale/code/Chosnale/" (24032 55042 658160 402000) "__init__.py" "./" "__pycache__/" "apps/" "extensions.py" "application.py" "../" "config.py")
+
+ ("/home/senaps/Projects/python/sfgen/code/sfgen/templates/simple_app/" (24010 22383 578377 919000) "run.sh" "requirements.txt" "./" "app.service.tmpl" "../" "app.py.tmpl")
+
+ ("/home/senaps/Projects/python/sfgen/code/sfgen/" (24059 53951 52440 272000) "__init__.py" "./" "__pycache__/" "templates/" "cli.py" "../")
+
+ ("/home/senaps/Projects/python/urlshortner/code/" (24182 28810 826799 513000) "requirements.txt" ".pytest_cache/" "./" "test_stiny.py" "__pycache__/" ".idea/" "stiny.py" ".gitignore" "../" ".git/")
+
+ ("/home/senaps/Projects/python/flasgger_test/" (23992 35627 410449 894000) "api.py" "get_something.yml~" "remove_something.yml" "#api.py#" "api.py~" "./" "__pycache__/" "env/" "get_something.yml" "index.yml" "../")
+
+ ("/home/senaps/Projects/" (23978 5663 331210 123000) "revolut/" "js/" ".scripts/" "python/" "./" "golang/" "devops/" "report/" "ansible/" "php/" "../" "cpp/" "blog/" "C/")
+
+ ("/home/senaps/Projects/python/" (23991 61096 581947 260000) "pug/" "torgen/" "vajehyab/" "NER-/" "overflow/" "slog/" "module/" "maryam/" "flask_dynamic_load/" "test_flask/" "stms/" "chosnale/" "chat_socket/" "./" "barsa/" "requests/" "tehpug/" "speed/" "shp/" "pug-irancook/" "sfgen/" "telegram-scraper/" "stbot/" "code/" "cheats/" "flasgger_test/" "flask/" "../" "flask_local_captcha/")
+
+ ("/home/senaps/Projects/C/stagit/" (23977 63255 475049 56000) "stagit.c" "favicon.png" "strlcpy.c" "./" "compat.h" "logo.png" "strlcat.c" "config.mk" "stagit.1" "stagit-index.1" "style.css" "example_create.sh" "example_post-receive.sh" "README" "Makefile" "../" ".git/" "stagit-index.c" "reallocarray.c" "LICENSE")
+
+ ("/home/senaps/Projects/python/shp/code/" (23972 54244 208192 208000) "shp.py~" "README.md" "__version__.py~" "requirements.txt" "README.md~" "__version__.py" "./" ".gitignore" "shp.py" "../" ".git/")
+
+ ("/home/senaps/Projects/ansible/local_test/" (23814 28096 712023 604000) "README.md" "resources" "resources.yml" "playbook.yml" "./" ".gitignore" "../" ".git/" "roles/")
+
+ ("/home/senaps/Projects/python/shp/" (23972 51002 695163 668000) "./" "env/" "code/" "../")
+
+ ("/home/senaps/Projects/ansible/" (23801 12330 216039 8000) "./" "env/" "local_test/" "../")
+
+ ("/home/senaps/Projects/python/overflow/code/overflowdata/overflowdata/" (23273 27332 643470 454000) "urls.py" "urls.pyc" "settings.pyc" "__init__.py" "./" "urls.py~" "settings.py~" "wsgi.pyc" "__init__.pyc" "../" "settings.py" "wsgi.py")
+
+ ("/home/senaps/Projects/python/overflow/code/overflowdata/dash/" (23294 37756 625190 585000) "urls.py" "images/" "admin.py" "urls.pyc" "migrations/" "tests.py" "__init__.py" "./" "models.py" "templates/" "apps.py" "templatetags/" "views.py" "__init__.pyc" "views.pyc" "models.pyc" "admin.pyc" "../" "static/")
+
+ ("/home/senaps/Projects/python/chosnale/code/Chosnale/apps/" (23540 27375 389069 273000) "__init__.py" "chosnale/" "./" "__pycache__/" "../")
+
+ ("/home/senaps/Projects/python/chosnale/" (23532 30493 263379 514000) "./" "env/" "code/" "../")
+
+ ("/home/senaps/Projects/python/overflow/" (23253 51241 638825 201000) "./" "env/" "code/" "../")
+
+ ("/home/senaps/Projects/python/overflow/code/" (23254 6290 149085 878000) "requirements.txt" "./" ".gitignore" "../" ".git/" "overflowdata/")
+
+ ("/home/senaps/Projects/python/overflow/code/overflowdata/" (23254 7878 482629 253000) "./" "dash/" "db.sqlite3" "../" "overflowdata/" "manage.py")
+
+ ("/home/senaps/Projects/overflow-test/code/overflowdata/dash/" (23252 40807 162035 600000) "urls.py" "admin.py" "migrations/" "views.py~" "tests.py" "__init__.py" "./" "models.py" "apps.py" "urls.py~" "views.py" "__init__.pyc" "models.py~" "models.pyc" "admin.pyc" "../" "admin.py~" "forms.py")
+
+ ("/home/senaps/Projects/overflow-test/code/overflowdata/overflowdata/" (23252 40620 751893 990000) "urls.py" "urls.pyc" "settings.pyc" "__init__.py" "./" "urls.py~" "settings.py~" "wsgi.pyc" "__init__.pyc" "../" "settings.py" "wsgi.py")
+
+ ("/home/senaps/Projects/overflow-test/code/overflowdata/" (23252 40358 748840 341000) "./" "dash/" "db.sqlite3" "../" "overflowdata/" "manage.py")
+
+ ("/home/senaps/Projects/overflow-test/code/" (23252 33965 64509 739000) "./" "../" "overflowdata/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

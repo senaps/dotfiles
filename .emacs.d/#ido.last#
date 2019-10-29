@@ -1,0 +1,82 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/senaps/Projects/python/chosnale/code/Chosnale/apps/" . "chosnale/")
+ ("/home/senaps/Projects/python/chosnale/code/Chosnale/" . "apps/")
+ ("/home/senaps/Projects/python/chosnale/code/" . "Chosnale/")
+ ("/home/senaps/Projects/python/chosnale/" . "code/")
+ ("/home/senaps/Projects/python/" . "chosnale/")
+ ("/home/senaps/Projects/" . "python/")
+ ("/home/senaps/Projects/python/overflow/code/overflowdata/" . "dash/")
+ ("/home/senaps/Projects/overflow-test/code/overflowdata/" . "dash/")
+ ("/home/senaps/Projects/overflow-test/code/" . "overflowdata/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/senaps/"
+ "/home/senaps/Projects/ansible/local_test/"
+ "/home/senaps/Projects/python/chosnale/code/Chosnale/apps/chosnale/"
+ "/home/senaps/Projects/python/overflow/code/overflowdata/dash/"
+ "/home/senaps/Projects/python/overflow/code/overflowdata/overflowdata/"
+ "/home/senaps/Projects/overflow-test/code/overflowdata/dash/"
+ "/home/senaps/Projects/overflow-test/code/overflowdata/overflowdata/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "resources"
+ "test.py"
+ "views.py"
+ "admin.py"
+ "urls.py"
+ "models.py"
+ "settings.py"
+ "forms.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/senaps/" (23801 28393 828967 566000) ".zshrc" "Game.of.Thrones.S08E02_WorldSubtitle/" "Templates/" ".cache/" ".pythonhist" ".vnc/" ".bash_logout" ".gnupg/" "Documents/" ".apport-ignore.xml" ".audacity-data/" ".lesshst" ".WebStorm2018.2/" ".emacs.d/" "The.Meg.2018_WorldSubtitle/" ".python_history" "The.Spy.Who.Dumped.Me.2018_WorldSubtitle/" "Game.of.Thrones.S08E03_WorldSubtitle/" "Desktop/" ".jupyter/" "The.100.S06E01_WorldSubtitle/" "Downloads/" ".thumbnails/" "The.100.S06E03_WorldSubtitle/" "VirtualBox VMs/" ".zcompdump-senaps-5.4.2" ".selected_editor" ".xinputrc" "Vikings.S05_WorldSubtitle/" "Pictures/" ".wget-hsts" ".PyCharmCE2019.1/" ".gimp-2.8/" "Alpha.2018_WorldSubtitle/" "jjj/" ".xchat2/" ".vscode/" ".atom/" ".zcompdump-senaps-5.5.1" "Music/" ".bash_history" ".zcompdump-senaps-5.2" ".pam_environment" ".netrc" "The.Originals.S05_WorldSubtitle/" "examples.desktop" "snap/" ".pylint.d/" "./" ".vimrc" "Venom.2018_WorldSubtitle/" "The.Walking.Dead.S09E05_WorldSubtitle/" "Projects/" ".mysql_history" ".npm/" ".owasp-nettacker/" "Bird.Box.2018_WorldSubtitle/" "The.Upside.2017_WorldSubtitle/" ".mozilla/" ".pki/" ".oh-my-zsh/" ".nano/" ".PyCharmCE2018.3/" ".sudo_as_admin_successful" ".hugin" ".config/" ".ansible/" ".local/" ".zsh_history" "The.100.S06E02_WorldSubtitle/" ".ICEauthority" ".gphoto/" ".histfile" ".ptbt0" "Public/" ".hugindata/" ".zshrc.pre-oh-my-zsh" ".bashrc" ".dbus/" ".themes/" ".thunderbird/" ".emacs" ".ssh/" ".gitconfig" "Truth.or.Dare.2018_WorldSubtitle/" ".android/" ".ipython/" "../" ".profile" ".go/" ".emacs~" ".zcompdump" "Robin.Hood.The.Rebellion.2018_WorldSubtitle/" "Blockers.2018_WorldSubtitle/" "Fifty.Shades.Freed.2018_WorldSubtitle/" ".gconf/" ".compiz/" ".java/" "Videos/" ".viminfo" "Programs/" ".PyCharmCE2018.1/" ".sqlite_history" ".PyCharmCE2018.2/")
+
+ ("/home/senaps/Projects/" (23801 12292 59637 756000) "js/" "tes_scripts/" "python/" "./" "golang/" "report/" "ansible/" "php/" "../" "C/")
+
+ ("/home/senaps/Projects/ansible/" (23801 12330 216039 8000) "./" "env/" "local_test/" "../")
+
+ ("/home/senaps/Projects/ansible/local_test/" (23801 27572 220093 51000) "install_pkgs.yml" "README.md" "resources" "#resources#" "README.md~" "install_pkgs.yml~" "./" ".#resources" ".gitignore" "../" ".git/" "resources~")
+
+ ("/home/senaps/Projects/python/overflow/code/overflowdata/overflowdata/" (23273 27332 643470 454000) "urls.py" "urls.pyc" "settings.pyc" "__init__.py" "./" "urls.py~" "settings.py~" "wsgi.pyc" "__init__.pyc" "../" "settings.py" "wsgi.py")
+
+ ("/home/senaps/Projects/python/overflow/code/overflowdata/dash/" (23294 37756 625190 585000) "urls.py" "images/" "admin.py" "urls.pyc" "migrations/" "tests.py" "__init__.py" "./" "models.py" "templates/" "apps.py" "templatetags/" "views.py" "__init__.pyc" "views.pyc" "models.pyc" "admin.pyc" "../" "static/")
+
+ ("/home/senaps/Projects/python/chosnale/code/Chosnale/apps/chosnale/" (23744 45110 295965 797000) "#views.py#" "__init__.py" "./" "__pycache__/" "models.py" "views.py" "../" ".#views.py" "utils.py")
+
+ ("/home/senaps/Projects/python/chosnale/code/Chosnale/apps/" (23540 27375 389069 273000) "__init__.py" "chosnale/" "./" "__pycache__/" "../")
+
+ ("/home/senaps/Projects/python/chosnale/code/Chosnale/" (23540 27306 512632 20000) "__init__.py" "./" "__pycache__/" "apps/" "extensions.py" "application.py" "../" "config.py")
+
+ ("/home/senaps/Projects/python/chosnale/code/" (23540 27253 208310 747000) "develop.py" "README.md" "requirements.txt" "Procfile" ".pytest_cache/" "./" "__pycache__/" ".idea/" "Chosnale/" "tests/" ".gitignore" "production.py" "../" ".git/" "LICENSE")
+
+ ("/home/senaps/Projects/python/chosnale/" (23532 30493 263379 514000) "./" "env/" "code/" "../")
+
+ ("/home/senaps/Projects/python/" (23733 64440 414167 327000) "pug/" "torgen/" "vajehyab/" "NER-/" "overflow/" "slog/" "module/" "flask_dynamic_load/" "test_flask/" "chosnale/" "./" "tehpug/" "pug-irancook/" "sfgen/" "telegram-scraper/" "code/" "cheats/" "../" "flask_local_captcha/")
+
+ ("/home/senaps/Projects/python/overflow/" (23253 51241 638825 201000) "./" "env/" "code/" "../")
+
+ ("/home/senaps/Projects/python/overflow/code/" (23254 6290 149085 878000) "requirements.txt" "./" ".gitignore" "../" ".git/" "overflowdata/")
+
+ ("/home/senaps/Projects/python/overflow/code/overflowdata/" (23254 7878 482629 253000) "./" "dash/" "db.sqlite3" "../" "overflowdata/" "manage.py")
+
+ ("/home/senaps/Projects/overflow-test/code/overflowdata/dash/" (23252 40807 162035 600000) "urls.py" "admin.py" "migrations/" "views.py~" "tests.py" "__init__.py" "./" "models.py" "apps.py" "urls.py~" "views.py" "__init__.pyc" "models.py~" "models.pyc" "admin.pyc" "../" "admin.py~" "forms.py")
+
+ ("/home/senaps/Projects/overflow-test/code/overflowdata/overflowdata/" (23252 40620 751893 990000) "urls.py" "urls.pyc" "settings.pyc" "__init__.py" "./" "urls.py~" "settings.py~" "wsgi.pyc" "__init__.pyc" "../" "settings.py" "wsgi.py")
+
+ ("/home/senaps/Projects/overflow-test/code/overflowdata/" (23252 40358 748840 341000) "./" "dash/" "db.sqlite3" "../" "overflowdata/" "manage.py")
+
+ ("/home/senaps/Projects/overflow-test/code/" (23252 33965 64509 739000) "./" "../" "overflowdata/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
