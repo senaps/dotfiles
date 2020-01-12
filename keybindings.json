@@ -86,7 +86,7 @@
         "when": "!searchViewletVisible"
     },
     {
-        "key": "alt+s",
+        "key": "ctrl+shift+s",
         "command": "workbench.action.findInFiles"
     },
     {
@@ -288,5 +288,22 @@
     {
         "key": "ctrl+x k",
         "command": "workbench.action.closeActiveEditor"
+    },
+    {
+        "key": "alt+s",
+        "command": "editor.action.startFindReplaceAction"
+    },
+    {
+        "key": "ctrl+h",
+        "command": "-editor.action.startFindReplaceAction"
+    },
+    {
+        "key": "ctrl+shift+s",
+        "command": "-workbench.action.files.saveAs"
+    },
+    {
+        "key": "ctrl+shift+s",
+        "command": "-workbench.action.files.saveLocalFile",
+        "when": "remoteFileDialogVisible"
     }
 ]
